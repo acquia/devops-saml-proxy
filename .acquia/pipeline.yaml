@@ -22,5 +22,3 @@ build:
 security_scan:
   scanner: orca
   ignore_failures: false
-
-    
